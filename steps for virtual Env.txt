@@ -1,5 +1,0 @@
-pip install virtualenv
-
-virtualenv env_name / python -m virtualenv env_name
-cd env_name
-scripts / activate
